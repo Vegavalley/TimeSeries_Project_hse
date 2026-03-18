@@ -1,0 +1,5 @@
+cluster,n_series,best_sMAPE,sMAPE,best_MASE,MASE,best_MAE,MAE
+0,138,diff,8.9804,diff,0.9903,diff,258.6106
+1,40,diff,13.4777,diff,1.1952,diff,1088.3784
+2,19,diff,27.9202,diff,0.6733,diff,1060.939
+3,3,none,28.9947,none,0.5921,log1p,1004.5031

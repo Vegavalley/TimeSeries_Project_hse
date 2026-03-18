@@ -1,0 +1,5 @@
+data/
+results/data/
+catboost_info/
+*.p
+.DS_Store
